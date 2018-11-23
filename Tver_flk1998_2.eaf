@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-23T17:40:31+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-23T21:15:06+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/kirillkonca1/Downloads/Tver_flk1998_2.MOV" MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="../Downloads/Tver_flk1998_2.MOV"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:967e3b51-6b58-4cfe-b125-515a42c11ffc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">21</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="164"/>
@@ -11,33 +11,43 @@
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2602"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4400"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6280"/>
         <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6306"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="10551"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10551"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="13500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="13500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15185"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15185"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="17130"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="17130"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="19441"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="19441"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="21800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="21800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="23800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="23800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="25471"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="25471"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="28050"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="28050"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="29750"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="29750"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="31425"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="31425"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="59000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="60580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="7555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="7555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="8398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="8440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="9580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="9620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="10550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="10551"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="12004"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="12177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="13236"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="13500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="15185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="15185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="17130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="17130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="19441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="19441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="23800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="25471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="25471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="28050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="28050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="29750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="29750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="30675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="30775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="31395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="31425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="59000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="60580"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="K-Spch"/>
@@ -51,7 +61,7 @@
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="W-Words" TIER_ID="W-POS"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
-    <TIER ANNOTATOR="Кирилл Конча" LINGUISTIC_TYPE_REF="speech" TIER_ID="A-Speech">
+    <TIER ANNOTATOR="Кирилл Конча" LINGUISTIC_TYPE_REF="speech" TIER_ID="flk@">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>Здравсвтуйте дорогой Мартин Алексеевич /</ANNOTATION_VALUE>
@@ -59,76 +69,101 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>Пишу вам сразу по приезду/</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Пишу вам сразу по приезду</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Прям вот только что вошел и сел писать //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Прям вот только что вошел и сел писать </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>Тут все у нас хорошо / весна во всю / снег еще не сошел // но вроде бы сходит /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Тут все у нас хорошо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>На дороге намерзло много / а калитку я еле отодрал //</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>весна во всю</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>снег еще не сошел</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>но вроде бы сходит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>На дороге намерзло много </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> а калитку я еле отодрал </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>Вон как пристыл внизу ледок-то //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>Так что вошел когда сразу трубы проверил /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>И понял что целые / слава Богу</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>И понял что целые слава Богу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>Ну и действительно / зима-то не очень сурова была / </ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Ну и действительно  зима-то не очень сурова была  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>Больше двацати двух и не было кажется //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>А для нас это прямо благодать //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>И яблонки молодые // и розы ваши /</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>И яблонки молодые  и розы ваши </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>И опять же / чтоб трубы не разорвало //</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>И опять же чтоб трубы не разорвало</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>Но ничего / все обошлось</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Но ничего  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>Все тут хорошо //</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>все обошлось</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Все тут хорошо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>Я говорит / только что из командировки /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -148,6 +183,48 @@
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS-cp3">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_b2bc47a4-9a55-42ad-afb2-a9e18a58326e">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c0f20f89-681d-4d0f-93b5-ff11b6faf813">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0445d299-4b65-401c-98dd-e71d9758afd1">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9dab1a68-f87e-4ee8-9dee-cf5951a9ed52">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_89206367-80aa-4e36-97d6-a183f1b97bf2">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_66a9054c-b652-44cf-9e96-527cb6ee0676">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_90670fd4-4c0d-4b11-a3fb-8b616032900e">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c34ac74-efca-4f44-8110-41cecb2f32f4">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2536f17f-94bf-4bd9-a929-865efb82796c">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c118910d-8d0d-418f-8ab5-fd4748514e81">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_26992990-be65-42fe-9da2-86ffa9d71d30">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_21d7c3af-19cb-491e-aee6-7aecc01277a2">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4ac56cf8-e0bc-4eee-8d31-c12f50eb186e">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
         <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_2acada19-b054-4fde-a3b0-5c821c9f958a">
@@ -160,120 +237,6 @@
             <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_0cb80aa4-2494-41f3-a84b-bc40756c01a7">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="POS">
-        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_c3ca8d0a-924b-4eb6-8c7a-08c44820af9c">
-            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_472485a6-1ea3-4fa3-ab54-b30706d7beea">
-            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_f665184a-0ccd-4dcc-9c57-f932df165544">
-            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_e9114f8e-0af6-4ab1-9dd4-93e329b678ba">
-            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_96265cbb-4401-4a5a-89e9-9d9eec3a2270">
-            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_074ff242-8b47-4482-90e5-7e8a75a31f7a">
-            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c481b583-6ae3-4377-ba1d-20d00c29607a">
-            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_3b9c771d-6b28-4a49-bf17-43f453dcfa79">
-            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_3590eef7-e4f5-42ee-a12f-2d95a41eb7be">
-            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_904c760b-10cc-4104-afa1-c628103bf37a">
-            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_df90c499-376a-4f08-a721-15182457b55e">
-            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_fb199a15-b74a-425e-9896-d28119b8c3ea">
-            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_cb1811c6-82f0-4563-b68f-7bb6d24afc0b">
-            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp1">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_25197d44-7a3a-4a4b-a3d5-d6f0425cad74">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_8a53f632-bb1a-44c2-899f-0e4fdf2360d5">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_dc7edaff-efe4-40fb-b192-d5521993ef04">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_abd1cd9e-f126-474e-a59c-cc3ff618c0fd">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="POS-cp1">
-        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_26e61d0c-6730-43a7-8863-594a55615d8a">
-            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_dda413b3-cfa6-4840-a70f-157ba57fa926">
-            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_9d303ed6-c4fc-466a-ba63-c7176a1a1671">
-            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_e7ddc1c2-2af2-420b-8ca0-6588c8765e81">
-            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_ff40b866-c64f-43e3-93d4-cfd096fc312e">
-            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_bb108d44-1a3c-4596-b955-869cfbd74ec6">
-            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_15f01444-d776-4b35-934e-fd3703f8b276">
-            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_1c0b0e64-79c9-4822-ba3c-63910242b25d">
-            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_77e09aef-3855-4303-99be-26ec5fe373fc">
-            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_b15d57bc-87d2-4094-9333-1ac779a2bfed">
-            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0a77a5a1-17e2-45aa-9224-854c8055fb0e">
-            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_54a865bc-42ad-4ea4-87c6-ac0c38d4fdd6">
-            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_deebab6c-298d-47d1-84f4-9b8d34b9514f">
-            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp2">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_b3fe5c80-b276-49b3-b04b-fff89bff5939">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_77c728cd-5ee2-416e-924a-89e11bc60446">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0ddb1c38-4225-476b-8da3-f0deaf6c1790">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0d351f37-d2e6-47bd-9de4-bff21f5d525f">
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
@@ -319,75 +282,75 @@
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp3">
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp1">
         <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_efb664c8-5909-496f-8e8d-40813ee22b46">
+        <CV_ENTRY_ML CVE_ID="cveid_25197d44-7a3a-4a4b-a3d5-d6f0425cad74">
             <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_e839d664-0bd9-4b67-a47f-8af7bf1e0762">
+        <CV_ENTRY_ML CVE_ID="cveid_8a53f632-bb1a-44c2-899f-0e4fdf2360d5">
             <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_e8f7bc02-cb67-4547-9936-532806ef3ac0">
+        <CV_ENTRY_ML CVE_ID="cveid_dc7edaff-efe4-40fb-b192-d5521993ef04">
             <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c2dbacc1-eeec-4c65-b039-4710fa63755f">
+        <CV_ENTRY_ML CVE_ID="cveid_abd1cd9e-f126-474e-a59c-cc3ff618c0fd">
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="POS-cp3">
+    <CONTROLLED_VOCABULARY CV_ID="POS-cp5">
         <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_b2bc47a4-9a55-42ad-afb2-a9e18a58326e">
+        <CV_ENTRY_ML CVE_ID="cveid_5f241ab3-09a0-46df-a263-9dd54da0dbf5">
             <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c0f20f89-681d-4d0f-93b5-ff11b6faf813">
+        <CV_ENTRY_ML CVE_ID="cveid_ab489b9a-8071-4a0b-aedc-46f85baf7293">
             <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0445d299-4b65-401c-98dd-e71d9758afd1">
+        <CV_ENTRY_ML CVE_ID="cveid_32dab6a1-5ef4-473e-b4d1-5c21eb791766">
             <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_9dab1a68-f87e-4ee8-9dee-cf5951a9ed52">
+        <CV_ENTRY_ML CVE_ID="cveid_7d770f00-5d96-4bbf-a4b4-7a45a43cfe15">
             <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_89206367-80aa-4e36-97d6-a183f1b97bf2">
+        <CV_ENTRY_ML CVE_ID="cveid_5433de8e-3501-40e5-a60f-e5fa2551dc44">
             <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_66a9054c-b652-44cf-9e96-527cb6ee0676">
+        <CV_ENTRY_ML CVE_ID="cveid_70ad514a-d525-4bf8-aa30-bed51ddf0ce2">
             <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_90670fd4-4c0d-4b11-a3fb-8b616032900e">
+        <CV_ENTRY_ML CVE_ID="cveid_6e3289a3-93a3-4bf4-b160-a6664f5d6db1">
             <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_1c34ac74-efca-4f44-8110-41cecb2f32f4">
+        <CV_ENTRY_ML CVE_ID="cveid_8e1cbaaa-98cf-489d-93d6-c5fc25e9187f">
             <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_2536f17f-94bf-4bd9-a929-865efb82796c">
+        <CV_ENTRY_ML CVE_ID="cveid_a81a1316-6843-4b8c-a323-3bb9c7278bbd">
             <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c118910d-8d0d-418f-8ab5-fd4748514e81">
+        <CV_ENTRY_ML CVE_ID="cveid_6b550712-f88b-47a1-8929-201738a0e651">
             <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_26992990-be65-42fe-9da2-86ffa9d71d30">
+        <CV_ENTRY_ML CVE_ID="cveid_19624b39-03d6-4d13-b04f-8361d283fa09">
             <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_21d7c3af-19cb-491e-aee6-7aecc01277a2">
+        <CV_ENTRY_ML CVE_ID="cveid_f3926297-33e0-4e29-9e1e-95e34d915a60">
             <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_4ac56cf8-e0bc-4eee-8d31-c12f50eb186e">
+        <CV_ENTRY_ML CVE_ID="cveid_7fdf3576-c2bd-4418-9226-7867a76dc1e1">
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp4">
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp2">
         <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_431753c5-347c-4f0c-bbbc-f48282d11538">
+        <CV_ENTRY_ML CVE_ID="cveid_b3fe5c80-b276-49b3-b04b-fff89bff5939">
             <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_3a20462b-f33d-4807-aacf-95a226112119">
+        <CV_ENTRY_ML CVE_ID="cveid_77c728cd-5ee2-416e-924a-89e11bc60446">
             <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6dfd2997-daf7-4c79-977d-fff4414f8f97">
+        <CV_ENTRY_ML CVE_ID="cveid_0ddb1c38-4225-476b-8da3-f0deaf6c1790">
             <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
         </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_b7a37703-44df-40e6-9c15-e2a8220b8670">
+        <CV_ENTRY_ML CVE_ID="cveid_0d351f37-d2e6-47bd-9de4-bff21f5d525f">
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
@@ -433,6 +396,165 @@
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS-cp1">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_26e61d0c-6730-43a7-8863-594a55615d8a">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dda413b3-cfa6-4840-a70f-157ba57fa926">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9d303ed6-c4fc-466a-ba63-c7176a1a1671">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e7ddc1c2-2af2-420b-8ca0-6588c8765e81">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ff40b866-c64f-43e3-93d4-cfd096fc312e">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bb108d44-1a3c-4596-b955-869cfbd74ec6">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_15f01444-d776-4b35-934e-fd3703f8b276">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c0b0e64-79c9-4822-ba3c-63910242b25d">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_77e09aef-3855-4303-99be-26ec5fe373fc">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b15d57bc-87d2-4094-9333-1ac779a2bfed">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0a77a5a1-17e2-45aa-9224-854c8055fb0e">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_54a865bc-42ad-4ea4-87c6-ac0c38d4fdd6">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_deebab6c-298d-47d1-84f4-9b8d34b9514f">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp7">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_801bf1c5-ba5e-46be-a592-10d455138bf4">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5351d35e-3c21-498b-8f4c-07308551bd4d">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d1fe2549-0de3-4589-aa8b-64bb9cc6384d">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c16c416f-20cb-4723-9ee6-4440b0784fb8">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp8">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f50b0392-c463-40b1-a2b5-1eb65ff6e7de">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3a70161f-3836-474f-b87f-988eafc6ab7e">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0946ab41-360e-4768-b4d1-18673bd1d0d4">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_221210d0-0aa6-41f4-bd12-b5389ee830f0">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c3ca8d0a-924b-4eb6-8c7a-08c44820af9c">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_472485a6-1ea3-4fa3-ab54-b30706d7beea">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f665184a-0ccd-4dcc-9c57-f932df165544">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e9114f8e-0af6-4ab1-9dd4-93e329b678ba">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_96265cbb-4401-4a5a-89e9-9d9eec3a2270">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_074ff242-8b47-4482-90e5-7e8a75a31f7a">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c481b583-6ae3-4377-ba1d-20d00c29607a">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b9c771d-6b28-4a49-bf17-43f453dcfa79">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3590eef7-e4f5-42ee-a12f-2d95a41eb7be">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_904c760b-10cc-4104-afa1-c628103bf37a">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_df90c499-376a-4f08-a721-15182457b55e">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fb199a15-b74a-425e-9896-d28119b8c3ea">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cb1811c6-82f0-4563-b68f-7bb6d24afc0b">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp9">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d93c159a-c85f-432a-8d73-dfcef1b5dd09">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_493f4dbc-71bf-4a7b-851f-fc584cd110e2">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_199a34cd-8bf6-4120-b91b-606c01a6e89c">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f51d89fb-53ce-4b35-9160-f49eaa014b77">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp3">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_efb664c8-5909-496f-8e8d-40813ee22b46">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e839d664-0bd9-4b67-a47f-8af7bf1e0762">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e8f7bc02-cb67-4547-9936-532806ef3ac0">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c2dbacc1-eeec-4c65-b039-4710fa63755f">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp4">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_431753c5-347c-4f0c-bbbc-f48282d11538">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3a20462b-f33d-4807-aacf-95a226112119">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6dfd2997-daf7-4c79-977d-fff4414f8f97">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b7a37703-44df-40e6-9c15-e2a8220b8670">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp5">
         <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_b1ba8cbb-de50-4e83-9602-3366bd458516">
@@ -446,48 +568,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_4b283ae2-ecfe-4c7a-9c08-2525e6754a3f">
             <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="POS-cp5">
-        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_5f241ab3-09a0-46df-a263-9dd54da0dbf5">
-            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_ab489b9a-8071-4a0b-aedc-46f85baf7293">
-            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_32dab6a1-5ef4-473e-b4d1-5c21eb791766">
-            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_7d770f00-5d96-4bbf-a4b4-7a45a43cfe15">
-            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_5433de8e-3501-40e5-a60f-e5fa2551dc44">
-            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_70ad514a-d525-4bf8-aa30-bed51ddf0ce2">
-            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6e3289a3-93a3-4bf4-b160-a6664f5d6db1">
-            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_8e1cbaaa-98cf-489d-93d6-c5fc25e9187f">
-            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_a81a1316-6843-4b8c-a323-3bb9c7278bbd">
-            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_6b550712-f88b-47a1-8929-201738a0e651">
-            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_19624b39-03d6-4d13-b04f-8361d283fa09">
-            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_f3926297-33e0-4e29-9e1e-95e34d915a60">
-            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_7fdf3576-c2bd-4418-9226-7867a76dc1e1">
-            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp6">
@@ -547,21 +627,6 @@
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp7">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_801bf1c5-ba5e-46be-a592-10d455138bf4">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_5351d35e-3c21-498b-8f4c-07308551bd4d">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_d1fe2549-0de3-4589-aa8b-64bb9cc6384d">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_c16c416f-20cb-4723-9ee6-4440b0784fb8">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS-cp7">
         <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_f987a719-66f8-4226-8772-d2d710702614">
@@ -604,21 +669,6 @@
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp8">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_f50b0392-c463-40b1-a2b5-1eb65ff6e7de">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_3a70161f-3836-474f-b87f-988eafc6ab7e">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_0946ab41-360e-4768-b4d1-18673bd1d0d4">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_221210d0-0aa6-41f4-bd12-b5389ee830f0">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS-cp8">
         <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid_0aa2879d-38d7-4c45-ae76-c00b50ca6f71">
@@ -659,21 +709,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_44b78edc-2f6b-4e3f-a303-41eda1cd70b3">
             <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Gesture phases-cp9">
-        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid_d93c159a-c85f-432a-8d73-dfcef1b5dd09">
-            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_493f4dbc-71bf-4a7b-851f-fc584cd110e2">
-            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_199a34cd-8bf6-4120-b91b-606c01a6e89c">
-            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid_f51d89fb-53ce-4b35-9160-f49eaa014b77">
-            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="POS-cp9">
