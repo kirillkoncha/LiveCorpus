@@ -1,0 +1,1542 @@
+# time_begin = 2:16
+
+flk@
+
+# sent_id = 3
+# text = особенно учитывая что этот экзамен мне вообще не нужен был
+1	особенно	особенно	ADV	_	Degree=Pos	_	_	_	_
+2	учитывая	учитывать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+3	что	что	SCONJ	_	_	_	_	_	_
+4	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	экзамен	экзамен	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+7	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+8	не	не	PART	_	_	_	_	_	_
+9	нужен	нужный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	_
+10	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+kko@
+
+# sent_id = 5
+# text = Куда ты поступил?
+1	Куда	куда	ADV	_	Degree=Pos	_	_	_	_
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+3	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 7
+# text = Поступил яяя / в
+1	Поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	яяя	я	SPRO	_	Case=Nom|Number=Sing|Person=2	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 9
+# text = ммм / в вуз которого сейчас уже не существует / он коммерческий / иии в принципе опять же я не буду распространять данные об этом нооо я
+1	ммм	мм	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	вуз	вуз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	которого	который	PRON	_	Case=Gen	_	_	_	_
+6	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+7	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+8	не	не	PART	_	_	_	_	_	_
+9	существует	существовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+12	коммерческий	коммерческий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	иии	иии	CCONJ	_		_	_	_	_
+15	в	в	ADP	_	_	_	_	_	_
+16	принципе	принцип	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+17	опять	опять	ADV	_	Degree=Pos	_	_	_	_
+18	же	же	PART	_	_	_	_	_	_
+19	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+20	не	не	PART	_	_	_	_	_	_
+21	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+22	распространять	распространять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+23	данные	данные	NOUN	_	Animacy=Inan|Case=Nom|Number=Plur	_	_	_	_
+24	об	о	ADP	_	_	_	_	_	_
+25	этом	этот	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+26	нооо	нооо	CCONJ	_	_	_	_
+27	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 11
+# text = учусь на-а кинооператора
+1	учусь	учуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	а	а	CCONJ	_	_	_	_	_	_
+5	кинооператора	кинооператор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+kko@
+
+# sent_id = 13
+# text = И как тебе учеба на кинооператора?
+1	И	и	CCONJ	_	_	_	_	_	_
+2	как	как	SCONJ	_	_	_	_	_	_
+3	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	_
+4	учеба	учеба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	на	на	ADP	_	_	_	_	_	_
+6	кинооператора	кинооператор	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 15
+# text = Нуу мне в принципе нравится / ээм / я / с раннего детства увлекался кино / ээм
+1	Нуу	Нуа	ADV	_	Degree=Pos	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	принципе	принцип	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+5	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	ээм	ээм	INTJ	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	с	с	ADP	_	_	_	_	_	_
+12	раннего	ранний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+13	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+14	увлекался	увлекаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+15	кино	кино	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	ээм	ээм	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 17
+# text = я помню / ммм / первые профессии
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	ммм	мм	INTJ	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	первые	первый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+7	профессии	профессия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 19
+# text = в которые я хотел погрузиться в будущем / эээ / всегда были связаны / ээ / мм / с тем / что я видел на экране то есть
+1	в	в	ADP	_	_	_	_	_	_
+2	которые	который	PRON	_	Case=Acc	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	погрузиться	погрузиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	будущем	будущее	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Neut|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	эээ	эээ	INTJ	_	_	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+12	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	связаны	связать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	ээ	ээ	INTJ	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	мм	мм	INTJ	_	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	с	с	ADP	_	_	_	_	_	_
+20	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	что	что	PRON	_	Case=Acc	_	_	_	_
+23	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+24	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+25	на	на	ADP	_	_	_	_	_	_
+26	экране	экран	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+27	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+28	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 21
+# text = я сначала там смотрел какой-нибудь / не знаю / сериал про дальнобойщиков / один известный / и думал что дальнобойщиком быть круто
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	сначала	сначала	ADV	_	Degree=Pos	_	_	_	_
+3	там	там	ADV	_	Degree=Pos	_	_	_	_
+4	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	какой-нибудь	какой-нибудь	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	не	не	PART	_	_	_	_	_	_
+8	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	сериал	сериал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+11	про	про	ADP	_	_	_	_	_	_
+12	дальнобойщиков	дальнобойщик	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	один	один	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+15	известный	известный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	и	и	CCONJ	_	_	_	_	_	_
+18	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+19	что	что	PRON	_	Case=Acc	_	_	_	_
+20	дальнобойщиком	дальнобойщикий	ADV	_	Degree=Pos	_	_	_	_
+21	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+22	круто	крутой	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 23
+# text = смотрел другой там фильм / про каких-нибудь пиратов / и думал что пиратом быть круто а потом понял что все эти люди снимаются в кино
+1	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	другой	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	там	там	ADV	_	Degree=Pos	_	_	_	_
+4	фильм	фильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	про	про	ADP	_	_	_	_	_	_
+7	каких-нибудь	какой-нибудь	DET	_	Case=Gen|Number=Plur	_	_	_	_
+8	пиратов	пират	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	и	и	CCONJ	_	_	_	_	_	_
+11	думал	думать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	_	_
+13	пиратом	пират	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+14	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+15	круто	крутой	ADV	_	Degree=Pos	_	_	_	_
+16	а	а	CCONJ	_	_	_	_	_	_
+17	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+18	понял	понять	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+19	что	что	SCONJ	_	_	_	_	_	_
+20	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+21	эти	этот	DET	_	Case=Nom|Number=Plur	_	_	_	_
+22	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+23	снимаются	сниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	_
+24	в	в	ADP	_	_	_	_	_	_
+25	кино	кино	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 25
+# text = и кино это круто / иии / в дальнейшем решил связать свою жизнь / с кино / ээ / и / выбрал кинооператорский факультет / эээ
+1	и	и	CCONJ	_	_	_	_	_	_
+2	кино	кино	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+4	круто	крутой	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	иии	и	CCONJ	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	в	в	ADP	_	_	_	_	_	_
+9	дальнейшем	дальнейший	ADJ	_	Case=Loc2|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	связать	связать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+12	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+13	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	с	с	ADP	_	_	_	_	_	_
+16	кино	кино	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	ээ	ээ	INTJ	_	_	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	и	и	CCONJ	_	_	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	выбрал	выбрать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	кинооператорский	кинооператорский	ADJ	_	!Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+24	факультет	факультет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	эээ	эээ	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 27
+# text = потому что посчитал что это / ээ / более интересна именно в качестве образования профессия то есть она более техническая
+1	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+2	что	что	SCONJ	_	_	_	_	_	_
+3	посчитал	считать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	что	что	SCONJ	_	_	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	ээ	ээ	INTJ	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	более	более	ADV	_	Degree=Cmp	_	_	_	_
+10	интересна	интересный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	_
+11	именно	именно	PART	_	_	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	качестве	качество	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Neut|Number=Sing	_	_	_	_
+14	образования	образование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+15	профессия	профессия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+16	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+17	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+19	более	более	ADV	_	Degree=Cmp	_	_	_	_
+20	техническая	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 29
+# text = иии / на неей / куда более / ээ м / м / в ней больше практических знанией / чем в других / киношных профессиях
+1	иии	и	CCONJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	на	на	ADP	_	_	_	_	_	_
+4	неей	не	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	куда	куда	ADV	_	Degree=Pos	_	_	_	_
+7	более	более	ADV	_	Degree=Cmp	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	ээ	ээ	INTJ	_	_	_	_	_	_
+10	м	метр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	м	метр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	ней	она	PRON	_	Case=Loc2|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+16	больше	много	NUM	_	_	_	_	_	_
+17	практических	практический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+18	знанией	знания	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	чем	чем	SCONJ	_	_	_	_	_	_
+21	в	в	ADP	_	_	_	_	_	_
+22	других	другой	ADJ	_	Case=Loc2|Degree=Pos|Number=Plur	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	киношных	киношный	ADJ	_	Case=Loc2|Degree=Pos|Number=Plur	_	_	_	_
+25	профессиях	профессия	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+#time_end = 3:29
+
+# time_begin = 5:00
+
+flk@
+
+# sent_id = 33
+# text = в полном объеме как / например / это могут / делать / художники / понятное дело что например художник / который
+1	в	в	ADP	_	_	_	_	_	_
+2	полном	полный	ADJ	_	Case=Loc2|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	объеме	объем	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+4	как	как	SCONJ	_	_	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	например	например	ADV	_	Degree=Pos	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+9	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	художники	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	понятное	понятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+16	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+17	что	что	SCONJ	_	_	_	_	_	_
+18	например	например	ADV	_	Degree=Pos	_	_	_	_
+19	художник	художник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	который	который	PRON	_	Case=Nom	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 35
+# text = хочет рисовать / какие-то огромные фрески / или гигантские полотна / он тоже не может это делать с самого начала
+1	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	рисовать	рисовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	_
+5	огромные	огромный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+6	фрески	фресок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	или	или	CCONJ	_	_	_	_	_	_
+9	гигантские	гигантский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+10	полотна	полотно	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+13	тоже	тоже	PART	_	_	_	_	_	_
+14	не	не	PART	_	_	_	_	_	_
+15	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+16	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+17	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+18	с	с	ADP	_	_	_	_	_	_
+19	самого	самый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+20	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 37
+# text = но тем не менее если он хочет что-то нарисовать / он берет
+1	но	но	CCONJ	_	_	_	_	_	_
+2	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+3	не	не	PART	_	Polarity=Neg	_	_	_	_
+4	менее	менее	ADV	_	Degree=Cmp	_	_	_	_
+5	если	если	SCONJ	_	_	_	_	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+7	хочет	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+8	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+9	нарисовать	нарисовать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+12	берет	брать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 39
+# text = и рисует
+1	и	и	CCONJ	_	_	_	_	_	_
+2	рисует	рисовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 41
+# text = я же
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	же	же	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 43
+# text = работая в кино
+1	работая	работать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	кино	кино	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@ну
+
+# sent_id = 45
+# text = не могу снимать в полном объеме / то что я хочу / поэтому / аааа / то чем я занимаюсь в процессе обучения
+1	не	не	PART	_	_	_	_	_	_
+2	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	снимать	снимать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	полном	полный	ADJ	_	Case=Loc2|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	объеме	объем	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	то	то	SCONJ	_	_	_	_	_	_
+9	что	что	PRON	_	Case=Acc	_	_	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+11	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	аааа	ааа	INTJ	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	то	то	SCONJ	_	_	_	_	_	_
+18	чем	что	PRON	_	Case=Ins	_	_	_	_
+19	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+20	занимаюсь	заниматься	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+21	в	в	ADP	_	_	_	_	_	_
+22	процессе	процесс	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	_	_	_	_
+23	обучения	обучение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 47
+# text = я бы не сказал что это прям / м / подходит полностью под определение хобби / это все таки / ээ
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+3	не	не	PART	_	_	_	_	_	_
+4	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+7	прям	прямо	ADV	_	Degree=Pos	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	м	метр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	подходит	подходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	полностью	полностью	ADV	_	Degree=Pos	_	_	_	_
+13	под	под	ADP	_	_	_	_	_	_
+14	определение	определение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+15	хобби	хобби	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+18	все	весь	PART	_	_	_	_	_	_
+19	таки	така	PART	_	_	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	ээ	ээ	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 49
+# text = более рутиная вещь чем хобби / но в дальнейшем я надеюсь что если я набью руку на этой рутине
+1	более	более	ADV	_	Degree=Cmp	_	_	_	_
+2	рутиная	рутиный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+3	вещь	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	чем	чем	SCONJ	_	_	_	_	_	_
+5	хобби	хобби	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	но	но	CCONJ	_	_	_	_	_	_
+8	в	в	ADP	_	_	_	_	_	_
+9	дальнейшем	дальнейший	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+11	надеюсь	надеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+12	что	что	SCONJ	_	_	_	_	_	_
+13	если	если	SCONJ	_	_	_	_	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+15	набью	набь	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+16	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+17	на	на	ADP	_	_	_	_	_	_
+18	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+19	рутине	рутина	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 51
+# text = у меня получится / э / добиться / ээ / возможности чтобы делать то что я хочу и тогда / уже / моя работа станет полноценным хобби
+1	у	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	получится	получиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	э	эра	INTJ	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	добиться	добиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	ээ	ээ	INTJ	_	_	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	возможности	возможность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+12	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+13	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+14	то	то	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+15	что	что	PRON	_	Case=Acc	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	и	и	PART	_	_	_	_	_	_
+19	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+24	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+25	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	_
+26	полноценным	полноценный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+27	хобби	хобби	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+kko@
+
+# sent_id = 53
+# text = Какой последний фильм / ты
+1	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	фильм	фильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	SpacesAfter=\n\n
+
+kko@
+
+# sent_id = 55
+# text = видел?
+1	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 57
+# text = Нуу / я вот сегодня смотр...
+1	Нуу	Нуа	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	вот	вот	PART	_	_	_	_	_	_
+5	сегодня	сегодня	ADV	_	Degree=Pos	_	_	_	_
+6	смотр	смотреть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 59
+# text = пересматривал просто всех Бондов
+1	пересматривал	пересматривать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	просто	просто	PART	_	_	_	_	_	_
+3	всех	весь	DET	_	Case=Gen|Number=Plur	_	_	_	_
+4	Бондов	Бонды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 61
+# text = забавно получается что я / так давно
+1	забавно	забавно	ADV	_	Degree=Pos	_	_	_	_
+2	получается	получаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	что	что	SCONJ	_	_	_	_	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	так	так	ADV	_	Degree=Pos	_	_	_	_
+7	давно	давно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 63
+# text = про них не вспоминал / а / на этом видео буду как такой / ярый фанат бондов который с детства их смотрел и пересматривает
+1	про	про	ADP	_	_	_	_	_	_
+2	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+3	не	не	PART	_	_	_	_	_	_
+4	вспоминал	вспоминать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	а	а	CCONJ	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	на	на	ADP	_	_	_	_	_	_
+9	этом	этот	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+10	видео	видео	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+11	буду	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	как	как	SCONJ	_	_	_	_	_	_
+13	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	ярый	ярый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	фанат	фанат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+17	бондов	бонд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+18	который	который	PRON	_	Case=Nom	_	_	_	_
+19	с	с	ADP	_	_	_	_	_	_
+20	детства	детство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+21	их	они	DET	_	_	_	_	_	_
+22	смотрел	смотреть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	и	и	CCONJ	_	_	_	_	_	_
+24	пересматривает	пересматривать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 65
+# text = я сейчас решил просто смотреть всех по порядку
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+3	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	просто	просто	PART	_	_	_	_	_	_
+5	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+6	всех	все	PRON	_	Animacy=Anim|Case=Acc|Number=Plur	_	_	_	_
+7	по	по	ADP	_	_	_	_	_	_
+8	порядку	порядок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 67
+# text = и сейчас остановился где-то / наа / двенадцатом кажется по порядке Бонде
+1	и	и	CCONJ	_	_	_	_	_	_
+2	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+3	остановился	остановиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	где-то	где-то	ADV	_	Degree=Pos	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	наа	на	ADP	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	двенадцатом	двенадцат	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+10	по	по	ADP	_	_	_	_	_	_
+11	порядке	порядок	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+12	Бонде	Бонд	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 69
+# text = это ааа / ааа
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	ааа	аа	INTJ	_	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	ааа	аа	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 71
+# text = фо йо онли / блин / фо йо айс онли (For Your Eyes Only)
+1	фо	фо	ADV	_	Degree=Pos	_	_	_	_
+2	йо	йо	ADV	_	Degree=Pos	_	_	_	_
+3	онли	онть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	блин	блин	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	фо	фо	ADV	_	Degree=Pos	_	_	_	_
+8	йо	йо	ADV	_	Degree=Pos	_	_	_	_
+9	айс	айс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+10	онли	онть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+12	For	for	PROPN	_	Foreign=Yes	_	_	_	_
+13	Your	Your	PROPN	_	Foreign=Yes	_	_	_	_
+14	Eyes	Eyes	PROPN	_	Foreign=Yes	_	_	_	_
+15	Only	Only	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+16	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 73
+# text = ну только для твоих глаз / с Роджером Муром
+1	ну	ну	PART	_	_	_	_	_	_
+2	только	только	PART	_	_	_	_	_	_
+3	для	для	ADP	_	_	_	_	_	_
+4	твоих	тва	DET	_	Case=Gen|Number=Plur	_	_	_	_
+5	глаз	глаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	с	с	ADP	_	_	_	_	_	_
+8	Роджером	Роджер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+9	Муром	Мур	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 75
+# text = ииииии
+1	ииииии	ииииия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 77
+# text = нууу
+1	нууу	ну	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 79
+# text = он / был лучше / предыдущего бонда
+1	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	лучше	хороший	ADJ	_	Degree=Cmp	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	предыдущего	предыдущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	бонда	бонд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 81
+# text = ааа предыдущий был мунрэкер (Moonraker) / который у нас перевели как
+1	ааа	аа	INTJ	_	_	_	_	_	_
+2	предыдущий	предыдущий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	мунрэкер	мунрэкер	PROPN	_ 	Foreign=Yes	_	_	_
+5	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+6	Moonraker	Moonraker	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+7	)	)	PUNCT	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	который	который	PRON	_	Case=Nom	_	_	_	_
+10	у	у	ADP	_	_	_	_	_	_
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+12	перевели	перевести	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	как	как	SCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 83
+# text = эээ
+1	эээ	эээ	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 85
+# text = Лунный гонщик кажется
+1	Лунный	лунный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	гонщик	гонщик	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 87
+# text = я как-то не помню русское название честно говоря
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	как-то	как-то	ADV	_	Degree=Pos	_	_	_	_
+3	не	не	PART	_	_	_	_	_	_
+4	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	русское	русский	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	название	название	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+7	честно	честно	ADV	_	Degree=Pos	_	_	_	_
+8	говоря	говорить	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+kko@
+
+# sent_id = 89
+# text = Какой из двенадцати тебе больше всего запоминлся?
+1	Какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	из	из	ADP	_	_	_	_	_	_
+3	двенадцати	двенадцать	NUM	_	Case=Gen	_	_	_	_
+4	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2	_	_	_	_
+5	больше	много	NUM	_	_	_	_	_	_
+6	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	запоминлся	запоминться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 91
+# text = Нууу
+1	Нууу	Нууа	PART	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 93
+# text = наверное / у каждого / ммм
+1	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	у	у	ADP	_	_	_	_	_	_
+4	каждого	каждый	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	ммм	мм	INTJ	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 95
+# text = я б наверное три выделил / это эээ
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	б	бы	PART	_	Mood=Cnd	_	_	_	_
+3	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+4	три	три	NUM	_	Case=Nom	_	_	_	_
+5	выделил	выделить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+8	эээ	эээ	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 97
+# text = из Бондов с Шоном Коннери
+1	из	из	ADP	_	_	_	_	_	_
+2	Бондов	Бонды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	с	с	ADP	_	_	_	_	_	_
+4	Шоном	Шон	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+5	Коннери	Коннери	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 99
+# text = из эээ / который играл первого
+1	из	из	ADP	_	_	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	который	который	PRON	_	Case=Nom	_	_	_	_
+5	играл	играть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	первого	первый	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 101
+# text = эээ / больше всего мне понравился голд фингер (Gold Finger) / иии эээ
+1	эээ	эээ	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	больше	много	NUM	_	_	_	_	_	_
+4	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+5	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+6	понравился	понравиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+7	голд	голд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	фингер	фингер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+9	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	Gold	Gold	PROPN	_	Foreign=Yes	_	_	_	_
+11	Finger	Finger	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	иии	иия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+15	эээ	эээ	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 103
+# text = даймондс а форэва (Diamonds Are Forever)
+1	даймондс	даймондс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	а	а	CCONJ	_	_	_	_	_	_
+3	форэва	форэво	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	Diamonds	Diamonds	PROPN	_	Foreign=Yes	_	_	_	_
+6	Are	Are	PROPN	_	Foreign=Yes	_	_	_	_
+7	Forever	Forever	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 105
+# text = ааа / причем интересно что голд фингер (Gold Finger) он такой / мм / считается / э
+1	ааа	аа	INTJ	_	_	_	_	_	__
+2	/	/	PUNCT	_	_	_	_	_	_
+3	причем	причем	CCONJ	_	_	_	_	_	_
+4	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	голд	голд	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+7	фингер	фингер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	Gold	Gold	PROPN	_	Foreign=Yes	_	_	_	_
+10	Finger	Finger	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	_	_	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+13	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	мм	мм	INTJ	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	считается	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	э	эра	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 107
+# text = Бондом сформировал весь канон вот этих Бондов / с их таким / эээ / иронией / эээ / битостью сценария и прочими вещами
+1	Бондом	Бонд	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	сформировал	сформировать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	весь	весь	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+4	канон	канон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	_
+6	этих	этот	DET	_	Case=Gen|Number=Plur	_	_	_	_
+7	Бондов	Бонды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	с	с	ADP	_	_	_	_	_	_
+10	их	их	DET	_	_	_	_	_	_
+11	таким	такой	DET	_	Case=Dat|Number=Plur	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	эээ	эээ	INTJ	_	_	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	иронией	ирония	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	эээ	эээ	INTJ	_	_	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	битостью	битость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+20	сценария	сценарий	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+21	и	и	CCONJ	_	_	_	_	_	_
+22	прочими	прочий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+23	вещами	вещь	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 109
+# text = ноо мне кажется что вот он в полной мере разогнался только к концу третьего акта / у фильма
+1	ноо	ноо	ADV	_	Degree=Pos	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	что	что	SCONJ	_	_	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+7	в	в	ADP	_	_	_	_	_	_
+8	полной	полный	ADJ	_	Case=Loc2|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	мере	мера	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Fem|Number=Sing	_	_	_	_
+10	разогнался	разогнаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	только	только	PART	_	_	_	_	_	_
+12	к	к	ADP	_	_	_	_	_	_
+13	концу	конец	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+14	третьего	третий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+15	акта	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	у	у	ADP	_	_	_	_	_	_
+18	фильма	фильм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 111
+# text = аааа дайамондс а форэва (Diamonds Are Forever) / которые почему-то меньше ценят / потому что якобы говорят что Шон Коннери уже играл в нем
+1	аааа	ааа	INTJ	_	_	_	_	_	_
+2	дайамондс	дайамондс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+3	а	а	CCONJ	_	_	_	_	_	_
+4	форэва	форэво	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+5	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+6	Diamonds	Diamonds	PROPN	_	Foreign=Yes	_	_	_	_
+7	Are	Are	PROPN	_	Foreign=Yes	_	_	_	_
+8	Forever	Forever	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	которые	который	PRON	_	Case=Nom	_	_	_	_
+12	почему-то	почему-то	ADV	_	Degree=Pos	_	_	_	_
+13	меньше	мало	NUM	_	_	_	_	_	_
+14	ценят	ценить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+17	что	что	SCONJ	_	_	_	_	_	_
+18	якобы	якобы	ADV	_	Degree=Pos	_	_	_	_
+19	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+20	что	что	SCONJ	_	_	_	_	_	_
+21	Шон	Шон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+22	Коннери	Коннери	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+23	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+24	играл	играть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+25	в	в	ADP	_	_	_	_	_	_
+26	нем	он	PRON	_	Case=Loc2|Gender=Masc|Number=Sing|Person=3	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 113
+# text = только ради денег
+1	только	только	PART	_	_	_	_	_	_
+2	ради	ради	ADP	_	_	_	_	_	_
+3	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 115
+# text = а нее ради того что хотел
+1	а	а	CCONJ	_	_	_	_	_	_
+2	нее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+3	ради	ради	ADP	_	_	_	_	_	_
+4	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+5	что	что	SCONJ	_	_	_	_	_	_
+6	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 117
+# text = аааа / он наоборот вот
+1	аааа	ааа	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+4	наоборот	наоборот	ADV	_	Degree=Pos	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 119
+# text = именно такой тонкой иронией
+1	именно	именно	PART	_	_	_	_	_	_
+2	такой	такой	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+3	тонкой	тонкий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+4	иронией	ирония	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 121
+# text = эээ
+1	эээ	эээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 123
+# text = был очень классно динамичным / по сс...
+1	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+3	классно	классный	ADV	_	Degree=Pos	_	_	_	_
+4	динамичным	динамичный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	по	по	ADP	_	_	_	_	_	_
+7	сс.	сстраница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 125
+# text = ээ / по первым двум актам
+1	ээ	ээ	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	по	по	ADP	_	_	_	_	_	_
+4	первым	первый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+5	двум	два	NUM	_	Case=Dat	_	_	_	_
+6	актам	акт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 127
+# text = то есть там классная динамика
+1	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	там	там	ADV	_	Degree=Pos	_	_	_	_
+4	классная	классный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	динамика	динамика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 129
+# text = и эээ вот если совместить / не знаю / первые два акта дайамандс а форева (Diomands Are Forever)
+1	и	и	CCONJ	_	_	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	_
+3	вот	вот	PART	_	_	_	_	_	_
+4	если	если	SCONJ	_	_	_	_	_	_
+5	совместить	совместить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	не	не	PART	_	_	_	_	_	_
+8	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	первые	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+11	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	_
+12	акта	акт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+13	дайамандс	дайамандс	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+14	а	а	CCONJ	_	_	_	_	_	_
+15	форева	форев	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+16	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+17	Diomands	Diomands	PROPN	_	Foreign=Yes	_	_	_	_
+18	Are	Are	PROPN	_	Foreign=Yes	_	_	_	_
+19	Forever	Forever	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 131
+# text = и взять третий акт голд фингера (Gold Finger) это был бы наверное идеальный Бонд
+1	и	и	CCONJ	_	_	_	_	_	_
+2	взять	брать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+3	третий	третий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	акт	акт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+5	голд	голд	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+6	фингера	фингер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	Gold	Gold	PROPN	_	Foreign=Yes	_	_	_	_
+9	Finger	Finger	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	_	_	_	_
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+12	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+14	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+15	идеальный	идеальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	Бонд	Бонд	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 133
+# text = ииии причем
+1	ииии	ииия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+2	причем	причем	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 135
+# text = эээээ
+1	эээээ	эээээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 137
+# text = обоих Бондов / этих / снимал / один и тот же режиссер Гай Хэмилтон
+1	обоих	оба	NUM	_	Case=Gen|Gender=Masc	_	_	_	_
+2	Бондов	Бонды	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	этих	этот	DET	_	Case=Gen|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	снимал	снимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	один	один	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	и	и	CCONJ	_	_	_	_	_	_
+10	тот	тот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	же	же	PART	_	_	_	_	_	_
+12	режиссер	режиссер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+13	Гай	Гай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	Хэмилтон	Хэмилтон	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 139
+# text = ааа и еще
+1	ааа	аа	INTJ	_	_	_	_	_	_	_	_
+2	и	и	CCONJ	_	_	_	_	_	_
+3	еще	еще	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 141
+# text = из которых мне Бонд понравился
+1	из	из	ADP	_	_	_	_	_	_
+2	которых	который	PRON	_	Case=Gen	_	_	_	_
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+4	Бонд	Бонд	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	понравился	понравиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 143
+# text = ээээ ммм
+1	ээээ	ээээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	ммм	мм	INTJ	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 145
+# text = больше остальных / так заметно / это эээ с Роджером Муром
+1	больше	больше	ADV	_	Degree=Cmp	_	_	_	_
+2	остальных	остальной	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	так	так	ADV	_	Degree=Pos	_	_	_	_
+5	заметно	заметно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+8	эээ	эээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+9	с	с	ADP	_	_	_	_	_	_
+10	Роджером	Роджер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+11	Муром	Мур	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 147
+# text = ммм эээ
+1	ммм	мм	INTJ	_	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 149
+# text = зэ спай вху лав ми (The Spy Who Love Me)
+1	зэ	зэ	PROPN	_	Foreign=Yes	_	_	_	_
+2	спай спай PROPN	Foreign=Yes	_	_	_	_
+3	вху	вху	PROPN	Foreign=Yes	_	_	_	_
+4	лав	лав	PROPN	_	Foreign=Yes	_	_	_	_
+5	ми	ми	PROPN	Foreign=Yes	_	_	_	_
+6	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+7	The	The	PROPN	_	Foreign=Yes	_	_	_	_
+8	Spy	Spy	PROPN	_	Foreign=Yes	_	_	_	_
+9	Who	Who	PROPN	_	Foreign=Yes	_	_	_	_
+10	Love	Love	PROPN	_	Foreign=Yes	_	_	_	_
+11	Me	Me	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 151
+# text = эээ
+1	эээ	эээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 153
+# text = это
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 155
+# text = третий с Роджером Муром / в ка...
+1	третий	третий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+2	с	с	ADP	_	_	_	_	_	_
+3	Роджером	Роджер	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+4	Муром	Мур	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	ка	к	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 157
+# text = в роли Бонда
+1	в	в	ADP	_	_	_	_	_	_
+2	роли	роль	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Fem|Number=Sing	_	_	_	_
+3	Бонда	Бонд	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 159
+# text = иии
+1	иии	иия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 161
+# text = вот он тоже был
+1	вот	вот	PART	_	_	_	_	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+3	тоже	тоже	PART	_	_	_	_	_	_
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 163
+# text = таким / эээ / по правильному и ироничным / и серьезным
+1	таким	такой	DET	_	Case=Dat|Number=Plur	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	эээ	эээ	INTJ	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	по	по	ADP	_	_	_	_	_	_
+6	правильному	правильный	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	и	и	CCONJ	_	_	_	_	_	_
+8	ироничным	ироничный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	и	и	CCONJ	_	_	_	_	_	_
+11	серьезным	серьезный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 165
+# text = как бы ээ
+1	как	как	ADV	_	Degree=Pos	_	_	_	_
+2	бы	бы	PART	_	_	_	_	_	_
+3	ээ	ээ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 167
+# text = сбалансированным / так это
+1	сбалансированным	балансировать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	так	так	ADV	_	Degree=Pos	_	_	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 169
+# text = так это скажу / потому что эээ некоторые Бонды все таки скатываются в такой полный фарс / и это уже не так / круто
+1	так	так	ADV	_	Degree=Pos	_	_	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+3	скажу	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+6	что	что	SCONJ	_	_	_	_	_	_
+7	эээ	эээ	INTJ	_	_	_	_	_	_
+8	некоторые	некоторый	DET	_	Case=Nom|Number=Plur	_	_	_	_
+9	Бонды	Бонды	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+10	все	все	PART	_	_	_	_	_	_
+11	таки	таки	PART	_	_	_	_	_	_
+12	скатываются	скатываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	такой	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+15	полный	полный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	фарс	фарс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+17	/	/	PUNCT	_	_	_	_	_	_
+18	и	и	CCONJ	_	_	_	_	_	_
+19	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+20	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+21	не	не	PART	_	_	_	_	_	_
+22	так	так	ADV	_	Degree=Pos	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	круто	круто	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 171
+# text = а некоторые просто немного скучны / потому что они
+1	а	а	CCONJ	_	_	_	_	_	_
+2	некоторые	некоторый	DET	_	Case=Nom|Number=Plur	_	_	_	_
+3	просто	просто	PART	_	_	_	_	_	_
+4	немного	немного	ADV	_	Degree=Pos	_	_	_	_
+5	скучны	скучный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+8	что	что	SCONJ	_	_	_	_	_	_
+9	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 173
+# text = недостаточно фарсовые / наоборот
+1	недостаточно	недостаточно	ADV	_	Degree=Pos	_	_	_	_
+2	фарсовые	фарсовый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	наоборот	наоборот	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 175
+# text = а вот такая тонкая грань между / тем чтоб быть фарсовым или серьезным / ммм / не каждый режиссер может это / к сожалению / держать
+1	а	а	CCONJ	_	_	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	тонкая	тонкий	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	грань	грань	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	между	между	ADP	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+9	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+10	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+11	фарсовым	фарсовый	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+12	или	или	CCONJ	_	_	_	_	_	_
+13	серьезным	серьезный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	ммм	мм	INTJ	_	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	не	не	PART	_	_	_	_	_	_
+18	каждый	каждый	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+19	режиссер	режиссер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+20	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+21	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	к	к	ADP	_	_	_	_	_	_
+24	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	держать	держать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 177
+# text = но в целом если смотреть Бондов вот именно подряд так / то они все более менее нормально смотрятся
+1	но	но	CCONJ	_	_	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	целом	целое	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+4	если	если	SCONJ	_	_	_	_	_	_
+5	смотреть	смотреть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+6	Бондов	Бонды	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+7	вот	вот	PART	_	_	_	_	_	_
+8	именно	именно	PART	_	_	_	_	_	_
+9	подряд	подряд	ADV	_	Degree=Pos	_	_	_	_
+10	так	так	ADV	_	Degree=Pos	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	то	то	SCONJ	_	_	_	_	_	_
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+14	все	все	PART	_	_	_	_	_	_
+15	более	более	ADV	_	Degree=Cmp	_	_	_	_
+16	менее	менее	ADV	_	Degree=Cmp	_	_	_	_
+17	нормально	нормально	ADV	_	Degree=Pos	_	_	_	_
+18	смотрятся	смотреться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 179
+# text = потому что ты их воспринимаешь не как отдельные фильмы
+1	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+2	что	что	SCONJ	_	_	_	_	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+4	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+5	воспринимаешь	воспринимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	не	не	PART	_	_	_	_	_	_
+7	как	как	SCONJ	_	_	_	_	_	_
+8	отдельные	отдельный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+9	фильмы	фильм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 181
+# text = а просто как такие / серии сериала
+1	а	а	CCONJ	_	_	_	_	_	_
+2	просто	просто	PART	_	_	_	_	_	_
+3	как	как	SCONJ	_	_	_	_	_	_
+4	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	серии	серия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+7	сериала	сериал	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 183
+# text = иии из-за этого понятное дело / что у меня восприятие
+1	иии	иия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+2	из-за	из-за	ADP	_	_	_	_	_	_
+3	этого	этот	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+4	понятное	понятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+5	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	что	что	SCONJ	_	_	_	_	_	_
+8	у	у	ADP	_	_	_	_	_	_
+9	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+10	восприятие	восприятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 185
+# text = немногооо эээ
+1	немногооо	немногооо	ADV	_	Degree=Pos	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	_ 	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 187
+# text = не объективное к ним
+1	не	не	PART	_	_	_	_	_	_
+2	объективное	объективный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	к	к	ADP	_	_	_	_	_	_
+4	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 189
+# text = вот
+1	вот	вот	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+# time_end = 8:21
+
+# time_begin = 8:40
+
+flk@
+
+# sent_id = 193
+# text = эээ
+1	эээ	эээ	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 195
+# text = в том-то и дело / что он хороший сценарист / и эээ
+1	в	в	ADP	_	_	_	_	_	_
+2	том-	том-	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	то	тот	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+4	и	и	PART	_	_	_	_	_	_
+5	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	что	что	SCONJ	_	_	_	_	_	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+9	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	сценарист	сценарист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	эээ	эээ	INTJ    _   _   _   _   _   _ 	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 197
+# text = вот эээ / сценарий его
+1	вот	вот	PART	_	_	_	_	_	_
+2	эээ	эээ	INTJ	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	сценарий	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	его	он	DET	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 199
+# text = последних двух миссий невыполнима / это рога найшон (Rogue Nation)
+1	последних	последний	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+2	двух	два	NUM	_	Case=Gen	_	_	_	_
+3	миссий	миссия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+4	невыполнима	невыполнимый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+7	рога	PROPN	Foreign=Yes	_	_	_	_
+8	найшон	PROPN	Foreign=Yes	_	_	_	_
+9	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	Rogue	Rogue	PROPN	_	Foreign=Yes	_	_	_	_
+11	Nation	Nation	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 201
+# text = и фолаут (Fallout)
+1	и	и	CCONJ	_	_	_	_	_	_
+2	фолаут	фолаут	PROPN	Foreign=Yes	_	_	_	_
+3	(	(	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	Fallout	Fallout	PROPN	_	Foreign=Yes	_	_	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 203
+# text = они как такие / эээ / идеальные учебные сценарии массового боевика
+1	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+2	как	как	SCONJ	_	_	_	_	_	_
+3	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	эээ	эээ	INTJ	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	идеальные	идеальный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+8	учебные	учебный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+9	сценарии	сценарий	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+10	массового	массовый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+11	боевика	боевик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 205
+# text = и эээ вв
+1	и	и	CCONJ	_	_	_	_	_	_
+2	эээ	эээ INTJ	_	_	_	_	_	_
+3	вв	вть	INTJ	_	_	_	_	_   _ 	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 207
+# text = там тоже
+1	там	там	ADV	_	Degree=Pos	_	_	_	_
+2	тоже	тоже	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 209
+# text = вот ээ / очень хорошая битность / когда
+1	вот	вот	PART	_	_	_	_	_	_
+2	ээ	ээ	INTJ	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+5	хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	битность	битность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	когда	когда	SCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 211
+# text = эээ / в конце каждой сцены меняется меняется
+1	эээ	эээ	INTJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	конце	конец	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+5	каждой	каждый	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+6	сцены	сцена	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+7	меняется	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	меняется	меняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 213
+# text = ммм
+1	ммм	мм	INTJ	_	_	_	_	SpacesAfter=\n\n
+
+flk@
+
+# sent_id = 215
+# text = ценность / героев
+1	ценность	ценность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	героев	герой	NOUN	_	Animacy=Anim|Case=Gen2|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+# time_end = 9:01
+
